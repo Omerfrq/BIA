@@ -81,8 +81,13 @@ of data, protecting it from the influence of momentary change.
 - A federated data warehouse is a practical approach to achieving the “single version of the truth” across the organization. The federated data warehouse is used to integrate key business measures and dimensions.
 
 
+# Olap
+- OLAP is a category of software that allows users to analyze information from multiple database systems at the same time. It is a technology that enables analysts to extract and view business data from different points of view. OLAP stands for Online Analytical Processing.
 
+- Enables users to gain insight into multi-dimensional data cube structure through fast, consistent, and interactive access.
 
+# Olap Operations
+[Read About Olap Operations](https://www.guru99.com/online-analytical-processing.html)
 
 
 
