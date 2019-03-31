@@ -89,6 +89,16 @@ of data, protecting it from the influence of momentary change.
 # Olap Operations
 [Read About Olap Operations](https://www.guru99.com/online-analytical-processing.html)
 
+# Aggregation Properties
+- Additive
+- Semi-Additive
+ - Non-Additive
+ 
+[View Here](https://www.youtube.com/watch?v=RRCq3Jgd5Zk)
+
+
+# MDX query Basics
+[View Here](https://www.youtube.com/watch?v=tlAcR0mqWYQ)
 
 
 
