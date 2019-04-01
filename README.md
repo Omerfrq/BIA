@@ -14,7 +14,7 @@ A data warehousing is a technique for collecting and managing data from varied s
 
  - **Sources**: ERP, Ticket and Change management system, point of sale, legacy system, unstructured data
 - **Format** (Type of Data): Relational, Hierarchical, Columnar, Multi-dimensional, Big data MapReduce Databases, Unstructured text data
--**Platform**: IBM, Oracle, Microsoft, Sybase, SAS.
+- **Platform**: IBM, Oracle, Microsoft, Sybase, SAS.
 
 # BI Services Components
 
